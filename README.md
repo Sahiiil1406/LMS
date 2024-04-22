@@ -1,7 +1,9 @@
 ## lms
+
 Full stack learning management system
 #
 Features:
+
 1.User Authentication: Allow students and administrators to sign up, log in, and manage their accounts securely.
 
 2.Course Management: Enable administrators to create, update, and delete courses, including details such as title, description, instructor, and schedule.
