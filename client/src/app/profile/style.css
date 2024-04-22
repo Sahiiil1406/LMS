@@ -1,0 +1,60 @@
+.screen{
+    overflow: hidden;
+    overflow-y: hidden;
+}
+
+.main{
+    display: flex;
+    height:screen;
+    width: screen;
+    gap: 25px;
+    
+}
+.header{
+    background-color: rgb(35, 7, 171);
+    width: screen;
+    height: 40px;
+}
+.circle {
+     width: 200px;
+    height: 200px;
+    background-color: rgb(42, 134, 255); /* Change the background color as needed */
+     border-radius: 50%;
+     margin-left: 40px;
+}
+.button{
+    margin-top: -15px;
+}
+
+.box1{
+   padding:20px;
+   margin-left: 25px;
+   margin-top: 20px;
+}
+
+.info{
+padding: 15px;
+}
+.box2{
+    padding:20px;
+    margin-right: 25px;
+    margin-top: 20px;
+    width:1100px;
+    height: screen;
+}
+
+.c{
+    border:2px solid rgb(156, 152, 152);
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    box-shadow:white;
+    border-radius: 25px;
+}
+.heading{
+    font-size:50px;
+    width: fit-content;
+}
+.heading:hover{
+    text-decoration: underline;
+}

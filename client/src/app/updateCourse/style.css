@@ -1,0 +1,21 @@
+
+.main{
+    width:screen;
+    height:screen;
+    padding: 25px;
+    margin: 50px;
+    margin-top: 50px;
+    border:2px solid white;
+    border-radius: 25px;
+    color: black;
+
+}
+.h{
+   font-size: 50px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 520px;
+}
+.h:hover{
+    text-decoration: underline;
+}

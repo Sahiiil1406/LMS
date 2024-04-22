@@ -1,0 +1,15 @@
+.main{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.box{
+    padding: 20px;
+    border:1px solid rgb(235, 221, 221);
+    border-radius: 10px;
+}
+*{
+    color: black;
+}
