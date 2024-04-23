@@ -1,6 +1,6 @@
 ## lms
 
-Full stack learning management system
+Full stack learning management system(MERN)
 #
 Features:
 
